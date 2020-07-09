@@ -1,0 +1,3 @@
+# Algofun
+
+`npm run test`
